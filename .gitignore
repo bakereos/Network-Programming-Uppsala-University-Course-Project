@@ -1,0 +1,4 @@
+Build/
+x64/
+.vs/
+raylib_template.vcxproj.user
